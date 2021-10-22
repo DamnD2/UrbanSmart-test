@@ -1,1 +1,1 @@
-https://damnd2.github.io/HighTech-test/
+https://damnd2.github.io/UrbanSmart-test/
