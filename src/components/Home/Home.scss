@@ -1,0 +1,39 @@
+.login{
+	max-width: 400px;
+	width: 100%;
+	margin: 0 auto;
+
+	&__title{
+		text-align: center;
+		padding: 10px;
+		margin-bottom: 40px;
+	}
+
+	&__input{
+		display: block;
+		margin: 0 auto;
+		max-width: 250px;
+		font-size: 18px;
+		padding: 5px;
+		color: #000;
+		margin-bottom: 30px;
+		background: #ffffff0d;
+		border-top: 1px solid #ffffff33;
+		border-left: 1px solid #ffffff33;
+		box-shadow: 5px 5px 20px #00000033;
+		border-radius: 10px;
+	}
+
+	&__button{
+		display: block;
+		margin: 0 auto;
+		font-size: 18px;
+		border-radius: 5px;
+		background-color: #fff;
+	}
+}
+
+.link{
+	text-decoration: none;
+	color: black;
+}
